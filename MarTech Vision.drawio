@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T09:15:39.260Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" version="22.1.16" etag="SQL1M5oDrme-qXsTtZ7d" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-17T09:23:26.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="AUcuK10mGIggAy11ADLc" version="22.1.16" type="github">
   <diagram name="Page-1" id="PVslrEnJn0XF6vnXN1jS">
-    <mxGraphModel>
+    <mxGraphModel dx="1133" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8K9jHslYk04Z77Tmoj0i-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="720" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8K9jHslYk04Z77Tmoj0i-5" value="DWH" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="600" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8K9jHslYk04Z77Tmoj0i-6" value="Email" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8K9jHslYk04Z77Tmoj0i-7" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8K9jHslYk04Z77Tmoj0i-9" value="Paid Media" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8K9jHslYk04Z77Tmoj0i-10" value="Segment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="320" width="280" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="8K9jHslYk04Z77Tmoj0i-11" value="Marketo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="320" width="280" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="8K9jHslYk04Z77Tmoj0i-12" value="Web/Forms" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8K9jHslYk04Z77Tmoj0i-13" value="CRM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="600" width="280" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
