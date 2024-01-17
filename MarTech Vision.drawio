@@ -1,35 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T09:23:26.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="AUcuK10mGIggAy11ADLc" version="22.1.16" type="github">
+<mxfile host="Electron" modified="2024-01-17T11:05:28.422Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.18 Chrome/120.0.6099.199 Electron/28.1.2 Safari/537.36" etag="oXzMqTkp_TSSQ_FX0jlw" version="22.1.18" type="device">
   <diagram name="Page-1" id="PVslrEnJn0XF6vnXN1jS">
-    <mxGraphModel dx="1133" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8K9jHslYk04Z77Tmoj0i-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-VQyAGK54YV_bA6ciQ4E-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8K9jHslYk04Z77Tmoj0i-2" target="8K9jHslYk04Z77Tmoj0i-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="290" />
+              <mxPoint x="220" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-VQyAGK54YV_bA6ciQ4E-12" value="Using Javascript" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-VQyAGK54YV_bA6ciQ4E-11">
+          <mxGeometry x="-0.5167" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8K9jHslYk04Z77Tmoj0i-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="160" width="720" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8K9jHslYk04Z77Tmoj0i-5" value="DWH" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8K9jHslYk04Z77Tmoj0i-5" value="DWH" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="600" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8K9jHslYk04Z77Tmoj0i-6" value="Email" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8K9jHslYk04Z77Tmoj0i-6" value="Email" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="285" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8K9jHslYk04Z77Tmoj0i-7" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8K9jHslYk04Z77Tmoj0i-7" value="..." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="475" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8K9jHslYk04Z77Tmoj0i-9" value="Paid Media" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8K9jHslYk04Z77Tmoj0i-9" value="Paid Media" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8K9jHslYk04Z77Tmoj0i-10" value="Segment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-VQyAGK54YV_bA6ciQ4E-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8K9jHslYk04Z77Tmoj0i-10" target="8K9jHslYk04Z77Tmoj0i-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-VQyAGK54YV_bA6ciQ4E-2" value="Using MuleSoft" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-VQyAGK54YV_bA6ciQ4E-1">
+          <mxGeometry x="-0.0125" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8K9jHslYk04Z77Tmoj0i-10" value="Segment" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="320" width="280" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="8K9jHslYk04Z77Tmoj0i-11" value="Marketo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-VQyAGK54YV_bA6ciQ4E-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8K9jHslYk04Z77Tmoj0i-11" target="8K9jHslYk04Z77Tmoj0i-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-VQyAGK54YV_bA6ciQ4E-7" value="Custom Integration using Marketo&#39;s APIs" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-VQyAGK54YV_bA6ciQ4E-6">
+          <mxGeometry x="-0.0133" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8K9jHslYk04Z77Tmoj0i-11" value="Marketo" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="320" width="280" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="8K9jHslYk04Z77Tmoj0i-12" value="Web/Forms" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8K9jHslYk04Z77Tmoj0i-12" value="Web/Forms" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8K9jHslYk04Z77Tmoj0i-13" value="CRM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8K9jHslYk04Z77Tmoj0i-13" value="CRM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="600" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-VQyAGK54YV_bA6ciQ4E-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="8K9jHslYk04Z77Tmoj0i-13" target="8K9jHslYk04Z77Tmoj0i-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="460" as="sourcePoint" />
+            <mxPoint x="610" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-VQyAGK54YV_bA6ciQ4E-5" value="CRM - Marketo connector &lt;br&gt;from Marketo (Adobe)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-VQyAGK54YV_bA6ciQ4E-4">
+          <mxGeometry y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-VQyAGK54YV_bA6ciQ4E-13" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="8K9jHslYk04Z77Tmoj0i-5" target="8K9jHslYk04Z77Tmoj0i-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="460" as="sourcePoint" />
+            <mxPoint x="610" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-VQyAGK54YV_bA6ciQ4E-14" value="Custom Integration" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-VQyAGK54YV_bA6ciQ4E-13">
+          <mxGeometry x="-0.025" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
